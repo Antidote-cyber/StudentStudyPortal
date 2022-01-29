@@ -34,7 +34,6 @@ Flask-Cors==3.0.7
 form==0.0.1
 future==0.18.2
 geocoder==1.38.1
-geoip2==3.0.0
 gevent==21.12.0
 gevent-websocket==0.10.1
 greenlet==1.1.2
@@ -119,7 +118,6 @@ twine==3.1.1
 typed-ast==1.4.1
 typing==3.7.4.1
 typing_extensions==4.0.1
-urllib3==1.24.3
 virtualenv==20.10.0
 virtualenvwrapper-win==1.2.7
 visitor==0.1.3
