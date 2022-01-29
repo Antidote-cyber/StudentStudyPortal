@@ -146,6 +146,3 @@ wikipedia==1.4.0
 wrapt==1.12.1
 wsproto==1.0.0
 youtube-search-python==1.6.0
-zipp==3.7.0
-zope.event==4.5.0
-zope.interface==5.4.0
